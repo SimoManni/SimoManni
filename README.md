@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TensorFlow, Pytorch and Deep Learning**
 
-- 📫 How to reach me **simone-manni@outloo.com**
+- 📫 How to reach me **simone-manni@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
