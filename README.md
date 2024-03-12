@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Self Driving Car projects**
 
-- 🌱 I’m currently learning **TensorFlow, Pytorch and Deep Learning**
+- 🌱 I’m currently learning **Pytorch and Deep Learning**
 
 - 📫 How to reach me **simone-manni@outlook.com**
 
