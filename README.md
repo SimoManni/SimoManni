@@ -47,10 +47,10 @@
 <ul>
     <li><a href="https://github.com/SimoManni/VAMR-Project-Monocular-Visual-Odometry-Pipeline">Monocular Visual Odometry Pipeline</a></li>
     <li><a href="https://github.com/SimoManni/Lane-Detection-and-Vehicle-Tracking">Lane Detection and Vehicle Tracking</a></li>
-    <li><a href="https://github.com/SimoManni/Reinforcement-Learning-Agent-plays-Snake">Reinforcement Learning Agent learns to play Snakea</a></li>
+    <li><a href="https://github.com/SimoManni/Reinforcement-Learning-Agent-plays-Snake">Reinforcement Learning Agent learns to play Snake</a></li>
 </ul>
 
-<div style="clear:both; height:20px;"></div>
+<div style="clear:both; height:40px;"></div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simomanni&show_icons=true&locale=en&layout=compact" alt="simomanni" /></p>
 
