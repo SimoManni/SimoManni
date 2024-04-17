@@ -48,6 +48,7 @@
     <li><a href="https://github.com/SimoManni/VAMR-Project-Monocular-Visual-Odometry-Pipeline">Monocular Visual Odometry Pipeline</a></li>
     <li><a href="https://github.com/SimoManni/Lane-Detection-and-Vehicle-Tracking">Lane Detection and Vehicle Tracking</a></li>
     <li><a href="https://github.com/SimoManni/Reinforcement-Learning-Agent-plays-Snake">Reinforcement Learning Agent learns to play Snake</a></li>
+    <li><a href="https://github.com/SimoManni/Variational-Autoencoder-on-MNIST-Dataset">Variational Autoencoder on MNIST Dataset</a></li>
 </ul>
 
 <div style="clear:both; height:40px;"></div>
