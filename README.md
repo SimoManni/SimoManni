@@ -45,9 +45,9 @@
 
 <h3 align="left">Repositories:</h3>
 <ul>
-    <li><a href="link_to_your_repository_1">Repository Name 1</a></li>
-    <li><a href="link_to_your_repository_2">Repository Name 2</a></li>
-    <!-- Add more repositories as needed -->
+    <li><a href="https://github.com/SimoManni/VAMR-Project-Monocular-Visual-Odometry-Pipeline">Monocular Visual Odometry Pipeline</a></li>
+    <li><a href="https://github.com/SimoManni/Lane-Detection-and-Vehicle-Tracking">Lane Detection and Vehicle Tracking</a></li>
+    <li><a href="https://github.com/SimoManni/Reinforcement-Learning-Agent-plays-Snake">Reinforcement Learning Agent learns to play Snakea></li>
 </ul>
 
 
