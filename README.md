@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simomanni&label=Profile%20views&color=0e75b6&style=flat" alt="simomanni" /> </p>
 
-- 🔭 I’m currently working on **Self Driving Car projects**
-
 - 🌱 I’m currently learning **Pytorch and Deep Learning**
 
 - 📫 How to reach me **simone-manni@outlook.com**
